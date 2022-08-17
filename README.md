@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Styling
+
+This project was styled from https://reactrouter.com/docs/en/v6/getting-started/tutorial
+
 ## Available Scripts
 
 In the project directory, you can run:
